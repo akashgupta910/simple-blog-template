@@ -1,4 +1,4 @@
 # Simple Blog Template
 
-see Here : 
+see Here : https://akashgupta910.github.io/simple-blog-template/
 
